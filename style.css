@@ -80,7 +80,7 @@ section {
 }
 
 .home-container {
-    background: url(./assets/home-img.jpg);
+    background: url(assets/home-img.jpg);
     background-position: center;
     background-size: cover;
 }
